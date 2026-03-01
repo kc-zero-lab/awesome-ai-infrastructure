@@ -39,6 +39,7 @@
 - [NVIDIA Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) - A scalable model serving platform supporting multiple frameworks.
 - [ONNX Runtime](https://onnxruntime.ai/) - A cross-platform, high-performance scoring engine for serving ONNX models.
 - [Seldon Core](https://www.seldon.io/tech/products/core/) - An open-source platform for deploying and monitoring machine learning models on Kubernetes.
+- [AntSeed](https://antseed.com) - A peer-to-peer AI services network enabling decentralized, private AI inference.
 - [KFServing (KServe)](https://kserve.github.io/website/) - A Kubernetes-based model serving solution as part of the Kubeflow project.
 
 ## MLOps and Automation
